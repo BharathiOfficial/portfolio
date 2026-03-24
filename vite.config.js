@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/portfolio-website/', // <-- replace with your GitHub repo name
   plugins: [react()],
 })
+
